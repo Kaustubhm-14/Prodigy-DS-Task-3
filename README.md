@@ -53,15 +53,6 @@ Build and evaluate a model that accurately predicts target outcomes based on giv
 
 ---
 
-## 📊 Sample Visuals
-
-<p float="left">
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_03/blob/main/plots/sample1.png" width="45%" />
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_03/blob/main/plots/sample2.png" width="45%" />
-</p>
-
----
-
 ## ✅ Conclusion & Learnings
 - Understood the full ML pipeline: from raw data to model evaluation
 - Learned to choose and tune models for classification problems
